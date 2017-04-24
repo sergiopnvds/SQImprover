@@ -1088,3 +1088,6 @@ h1, h2, p, a, span{
          }
 
 }
+
+a:hover
+{     color: #FFFFFF; }

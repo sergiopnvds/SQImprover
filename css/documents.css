@@ -1104,9 +1104,7 @@ h2, p, a, span{
   transition: .2s all;
 }
 
-body {
-  padding-top: 77px;
-}
+
 
 /* header {
   position: fixed;
@@ -1242,25 +1240,7 @@ div.properties h1 {
   color: white;
 }
 
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: 20px;
-  background-color: #2196F3;
-  color: white;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
 
-header h1 {
-  font-weight: 400;
-}
 
 header span {
   -webkit-box-flex: 1;

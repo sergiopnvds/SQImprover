@@ -324,7 +324,7 @@ h1, h2, p, a, span{
    /******************************************** LEFT CONTAINER *****************************************/
    .left-container {width: 220px}
      .menu-box {
-       height: 240px;
+       height: 300px;
      }
        .menu-box .titular {
          background: #11a8ab;

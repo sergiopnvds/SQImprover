@@ -427,35 +427,71 @@ h1, h2, p, a, span{
 
 					#porcion1 .quesito {
 					    background-color: #E64C65;
-					    -webkit-transform: rotate(76deg);
-					    transform: rotate(76deg);
+					    -webkit-transform: rotate(108deg);
+					    transform: rotate(108deg);
 					  }
 					#porcion2 {
-					    -webkit-transform: rotate(76deg);
-					    transform: rotate(76deg);
+					    -webkit-transform: rotate(108deg);
+					    transform: rotate(108deg);
 					  }
 					#porcion2 .quesito {
 					    background-color: #11A8AB;
-					    -webkit-transform: rotate(140deg);
-					    transform: rotate(140deg);
+					    -webkit-transform: rotate(72deg);
+					    transform: rotate(72deg);
 					  }
 					#porcion3 {
-					    -webkit-transform: rotate(215deg);
-					    transform: rotate(215deg);
+					    -webkit-transform: rotate(180deg);
+					    transform: rotate(180deg);
 					  }
 					#porcion3 .quesito {
-					    background-color: #4FC4F6;
-					    -webkit-transform: rotate(113deg);
-					    transform: rotate(113deg);
+					    background-color: #FFA42E;
+					    -webkit-transform: rotate(47deg);
+					    transform: rotate(47deg);
 					  }
+          #porcion4 {
+					    -webkit-transform: rotate(227deg);
+					    transform: rotate(227deg);
+					  }
+					#porcion4 .quesito {
+					    background-color: #4FC4F6;
+					    -webkit-transform: rotate(36deg);
+					    transform: rotate(36deg);
+					  }
+          #porcion5 {
+					    -webkit-transform: rotate(263deg);
+					    transform: rotate(263deg);
+					  }
+					#porcion5 .quesito {
+					    background-color: #4C9F66;
+					    -webkit-transform: rotate(29deg);
+					    transform: rotate(29deg);
+    		   }
+          #porcion6 {
+					    -webkit-transform: rotate(292deg);
+					    transform: rotate(292deg);
+					  }
+					#porcion6 .quesito {
+					    background-color: #FCEE51;
+					    -webkit-transform: rotate(26deg);
+					    transform: rotate(26deg);
+					  }
+        #porcion7 {
+				    -webkit-transform: rotate(318deg);
+				    transform: rotate(318deg);
+				  }
+				#porcion7 .quesito {
+				    background-color: #0761EE;
+				    -webkit-transform: rotate(21deg);
+				    transform: rotate(21deg);
+				  }
 					#porcionFin {
-					    -webkit-transform: rotate(-32deg);
-					    transform:rotate(-32deg);
+					    -webkit-transform: rotate(339deg);
+					    transform:rotate(339deg);
 					  }
 					#porcionFin .quesito {
-					    background-color: #FCB150;
-					    -webkit-transform: rotate(32deg);
-					    transform: rotate(32deg);
+					    background-color: #FFFFFF;
+					    -webkit-transform: rotate(21deg);
+					    transform: rotate(21deg);
 					  }
 				/******************************************
 				END DONUT-CHART by @kseso http://codepen.io/Kseso/pen/phiyL
@@ -474,17 +510,29 @@ h1, h2, p, a, span{
 						padding: 10px 0 5px;
 						font-size: 15px;
 					}
-						.os.ios {
-							border-top: 4px solid #e64c65;
+						.os.java {
+							border-top: 4px solid #E64C65;
 						}
-						.os.mac {
-							border-top: 4px solid #11a8ab;
+						.os.c {
+							border-top: 4px solid #11A8AB;
 						}
-						.os.linux {
-							border-top: 4px solid #fcb150;
+						.os.js {
+							border-top: 4px solid #FFA42E;
 						}
-						.os.win {
-							border-top: 4px solid #4fc4f6;
+						.os.OOD {
+							border-top: 4px solid #4FC4F6;
+						}
+            .os.MySQL {
+							border-top: 4px solid #4C9F66;
+						}
+						.os.Csharp {
+							border-top: 4px solid #FCEE51;
+						}
+						.os.php {
+							border-top: 4px solid #0761EE;
+						}
+						.os.swift {
+							border-top: 4px solid #FFFFFF;
 						}
 					.os-percentage {
 						margin: 0;
@@ -996,7 +1044,7 @@ h1, h2, p, a, span{
 					}
 			.loading {
 				height: 200px;
-				padding-top: 35px;
+				padding-top: 7px;
 			}
 				.loading p {
 					display: inline-block;
@@ -1017,10 +1065,16 @@ h1, h2, p, a, span{
 					border-radius: 5px;
 					margin: 0 auto;
 				}
-					.progress-bar.downloading {
+					.progress-bar.downloading1 {
 						background: -webkit-linear-gradient(left, #11a8ab 81%,#50597b 81%); /* Chrome10+,Safari5.1+ */
 						background: -ms-linear-gradient(left, #11a8ab 81%,#50597b 81%); /* IE10+ */
 						background: linear-gradient(to right, #11a8ab 81%,#50597b 81%); /* W3C */
+					}
+
+          .progress-bar.downloading2 {
+						background: -webkit-linear-gradient(left, #E1A868 70%,#50597b 70%); /* Chrome10+,Safari5.1+ */
+						background: -ms-linear-gradient(left, #E1A868 70%,#50597b 70%); /* IE10+ */
+						background: linear-gradient(to right, #E1A868 70%,#50597b 70%); /* W3C */
 					}
 					.progress-bar.uploading {
 						background: -webkit-linear-gradient(left, #4fc4f6 43%,#50597b 43%); /* Chrome10+,Safari5.1+ */

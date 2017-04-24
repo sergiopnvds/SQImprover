@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_1{
+fill: #0000FF;
+}
+.g2_1{
+fill: #9F9F9F;
+}
+.g3_1{
+fill: #E2E2E2;
+}
+.g4_1{
+}
+
+.s1_1{
+font-size: 19.80px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s2_1{
+font-size: 13.75px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s3_1{
+font-size: 17.60px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s4_1{
+font-size: 13.75px;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s5_1{
+font-size: 18.33px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s6_1{
+font-size: 13.75px;
+font-family: Arial, Helvetica, sans-serif;
+fill: #0000FF;
+}
+.s7_1{
+font-size: 15.22px;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s8_1{
+font-size: 15.22px;
+font-family: Arial_2g;
+fill: #000000;
+}
+.s9_1{
+font-size: 18.33px;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+.s10_1{
+font-size: 15.22px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="82" 
+y="51" 
+dx="0,0,0,0,0,0,0.2,0,0" 
+class="s1_1"
+>G701-SSB </text>
+
+<text 
+x="660" 
+y="51" 
+dx="0,0,0,0,0,0,0,0,0.1,0,0,0,0,-0.1,0,0.1,0,0,0,0,-0.2,0,0,0,0.1,0,-0.1,0,-0.1" 
+class="s2_1"
+>IIT Stuart School of Business</text>
+
+<text 
+x="82" 
+y="72" 
+dx="0,0,0,0.1,-0.1,-0.1,0,0.1,0,-0.1,0.1,-0.1,0.1,0,-0.1,0.1,0,0.1,-0.2,0.1,-0.1,-0.1,0.1,-0.1,-0.1,-0.1" 
+class="s3_1"
+>Stuart School of Business </text>
+
+<text 
+x="660" 
+y="72" 
+dx="0,-0.1,0,0,0,0.1,0,0,0,0,0,-0.2,0,0,0,0.1,0,-0.2,0,0,-0.2,0,-0.1,0,0.1,0,0" 
+class="s2_1"
+>Office of Academic Advising</text>
+
+<text 
+x="660" 
+y="92" 
+dx="0,0.1,0.1,-0.3,0.6,-0.2,-0.2,0,0,0,0.1,0,-0.2,0,0,0,0,-0.1,0,0,0.1,0,-0.1,0.1,0,0" 
+class="s4_1"
+>10 W. 35th St., 13th Floor</text>
+
+<text 
+x="82" 
+y="113" 
+dx="0,0,0,0,0,0.1,0.1,0,0,-0.1,0,0,0,0,0.1,0,0,0.1,0,0,-0.2,0.1,0,0.1,0" 
+class="s5_1"
+>Request for Reinstatement</text>
+
+<text 
+x="660" 
+y="113" 
+dx="0,0,0,0.1,0.1,-0.1,0,0,0,0,-0.2,0,0,0.1,-0.1,0,0,0" 
+class="s4_1"
+>Chicago, IL 60616 </text>
+
+<text 
+x="660" 
+y="130" 
+dx="0,0,0,-0.1,0.1,0.1,-0.1,0,0,0,0.1,-0.2,0,0,0,0,-0.1,0.1,0.1,0,-0.1,0,0,0.1" 
+class="s6_1"
+>advising@stuart.iit.edu </text>
+
+<path fill-rule="evenodd" d="M660.2,132.6l139.3,0l0,-0.9l-139.3,0l0,0.9Z" class="g1_1" />
+<path fill-rule="evenodd" d="M82.5,146.7l770,0l0,-2.4l-770,0l0,2.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,144.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,144.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.9,144.7l769.4,0l0,-0.4l-769.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M852.3,144.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,144.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,146.3l0.4,0l0,-1.6l-0.4,0l0,1.6Z" class="g2_1" />
+<path fill-rule="evenodd" d="M852.3,146.3l0.4,0l0,-1.6l-0.4,0l0,1.6Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.5,146.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,146.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.9,146.7l769.4,0l0,-0.4l-769.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,146.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,146.7l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<text 
+x="82" 
+y="164" 
+dx="0,0,0.1,0,0,-0.1,0,-0.1,0.1,0,0.1,0,0,0.4,0,-0.2,0,-0.1,0,0,0.2,0,-0.1,0.1,0,0,0,-0.1,0,-0.1,0.2,0,0.3,-0.3,0,0,0.1,-0.1,0,0,0,0,0.1,0,0.3,0,-0.1,0,0,0,-0.1,0,0,0.1,0,0,-0.1,0.1,-0.1,0.1,0,0,0.1,-0.1,0.3,-0.3,0,0,0.1,0,0,0,0,0,0.1,-0.1,0,0.1,-0.1,0,0.1,0,0.2,0,0,-0.1,0,0.1,0,0,0.2,-0.2,0.1,-0.1" 
+class="s7_1"
+>Use this form when requesting any reinstatement to the university after a leave or withdrawal.</text>
+
+<text 
+x="82" 
+y="203" 
+dx="0,0,0.1,0.2,-0.1,0,0,0.2,0,-0.1,0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0,0,-0.1,0.1,0,0.1,0,0,0.1,0,0,0,0,0,0.2,0,-0.1,0,0,-0.1,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0.1,0,0.1,0,-0.1,0,0,0,0,0,0,-0.1,0.2,0,-0.1,0.2,0,-0.1,0,0,0.1,-0.1,0,0,0,0,0.2,0,-0.1,0.1,0,0,0,0,0.1,0,-0.1,0.1,-0.1,0,0,0,0,0.2,0,0,0,0" 
+class="s8_1"
+>NOTE: This form is intended for IIT Stuart Master’s students. IIT Stuart PhD students should refer to</text>
+
+<text 
+x="82" 
+y="221" 
+dx="0,0.1,0,0,-0.1,0,-0.1,0,0.1,0,-0.1,0.1,0.1,0,-0.1,0.3,-0.1,0.1,0,-0.1,0.2,0.2,0,-0.1,0,0.1,-0.2,0,0,-0.1,0,0.1,0,-0.1,0.2,-0.1,0,0.1,0,0.1,0,0,0,0.1,0,-0.1,0,0,0,0,0.1,0,0.3,0,-0.1,0.5,0,0,-0.1,0,0.1,0,0,0,0.1,0,0.1,0,-0.1,0,0.1,0,0.1,0,0,-0.1,0.1,0,0,0,0,0.1,0,-0.1,0.1,-0.1,0,0,0,0,0.2,0,0,0,0,0.2" 
+class="s7_1"
+>Graduate Academic Affairs to petition for reinstatement; undergraduate students should refer to </text>
+
+<text 
+x="82" 
+y="238" 
+dx="0,0,0,0,-0.1,0,0,0,0.2,0,-0.1,0.1,0,0,0.1,-0.1,0.1,0,-0.1,0,0.3,-0.1,0.1,0,-0.1,0.2,0.2,0,-0.1,0,0.1,0,0,-0.1,0,0,-0.1,0,0.1,0,-0.1,0.1,0,0,0.1,0,0,0,0.1,0,-0.1,0,0,0,0.1,0,0,0.3,0,-0.1,0" 
+class="s7_1"
+>Undergraduate Academic Affairs to petition for reinstatement.</text>
+
+<text 
+x="82" 
+y="279" 
+dx="0,0,0,0.1,0.1,-0.1,0.1,-0.2,0,0,-0.1,-0.1,-0.1,0.1,0.1,-0.1,0,-0.1,0,0.1,-0.2,-0.1,-0.1,-0.1,-0.1,0,0.1,0.1" 
+class="s3_1"
+>Student Personal Information</text>
+
+<text 
+x="333" 
+y="279" 
+dx="0" 
+class="s9_1"
+>(</text>
+
+<text 
+x="339" 
+y="279" 
+dx="0,-0.1,-0.1,0,-0.1,0.1,0.1,0,0,0,0,0.1,0,0,0.1,0,0.1,0.1,0,0.2,-0.5,0,0.2" 
+class="s7_1"
+>Please print legibly): </text>
+
+<path fill-rule="evenodd" d="M80.3,307.7l747.1,0l0,-0.8l-747.1,0l0,0.8Z" class="g4_1" />
+<text 
+x="82" 
+y="321" 
+dx="0,0,-0.1,0.1,0,0,0,0,0.3,0" 
+class="s7_1"
+>Last Name </text>
+
+<text 
+x="330" 
+y="321" 
+dx="0,0,-0.1,0,0.1,0,0,0,0,0.3,0" 
+class="s7_1"
+>First Name </text>
+
+<text 
+x="605" 
+y="321" 
+dx="0,-0.1,0,0,0.1,0,-0.1,0,0.1,0,0,0,-0.2,0.7,0" 
+class="s7_1"
+>Student ID/CWID</text>
+
+<path fill-rule="evenodd" d="M80.3,390.8l747.1,0l0,-0.8L80.3,390l0,0.8Z" class="g4_1" />
+<text 
+x="82" 
+y="404" 
+dx="0,-0.1,0,0.1,0,-0.1,0.2,0,-0.1,0.1,0,0,0,0.1,0.1" 
+class="s7_1"
+>Street Address </text>
+
+<text 
+x="330" 
+y="404" 
+dx="0,0,-0.1,0.3,-0.3,0,0,0.1,0,0,-0.1,0.2" 
+class="s7_1"
+>City/ State </text>
+
+<text 
+x="609" 
+y="404" 
+dx="0,0,-0.1,0,0,0.1,0,-0.1" 
+class="s7_1"
+>Zip Code</text>
+
+<path fill-rule="evenodd" d="M80.3,449.2l747.1,0l0,-0.7l-747.1,0l0,0.7Z" class="g4_1" />
+<text 
+x="82" 
+y="463" 
+dx="0,0.2,0,-0.1,0,-0.1,0,0.1,0,-0.1,0,0.2,0,0.3,0,-0.1,0" 
+class="s7_1"
+>Telephone Number </text>
+
+<text 
+x="330" 
+y="463" 
+dx="0,-0.1,0.3,0,-0.1,-0.1,0,-0.1,0.1,0,0,0,0.1,0.1" 
+class="s7_1"
+>Email Address </text>
+
+<text 
+x="605" 
+y="463" 
+dx="0,0,0,0.1,0" 
+class="s7_1"
+>Major</text>
+
+<path fill-rule="evenodd" d="M82.5,483.1l770,0l0,-2.4l-770,0l0,2.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,481.1l0.4,0l0,-0.3l-0.4,0l0,0.3Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,481.1l0.4,0l0,-0.3l-0.4,0l0,0.3Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.9,481.1l769.4,0l0,-0.3l-769.4,0l0,0.3Z" class="g2_1" />
+<path fill-rule="evenodd" d="M852.3,481.1l0.4,0l0,-0.3l-0.4,0l0,0.3Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,481.1l0.4,0l0,-0.3l-0.4,0l0,0.3Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,482.8l0.4,0l0,-1.7l-0.4,0l0,1.7Z" class="g2_1" />
+<path fill-rule="evenodd" d="M852.3,482.8l0.4,0l0,-1.7l-0.4,0l0,1.7Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.5,483.2l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,483.2l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.9,483.2l769.4,0l0,-0.4l-769.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,483.2l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M852.3,483.2l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<text 
+x="82" 
+y="523" 
+dx="0,0,0,0.1,0.1,-0.1,0.1,-0.2,0.2,-0.4,-0.1,-0.1,0.1,-0.1,-0.1,0,-0.1,0,0,0.1,0,0.1,-0.1,-0.1,-0.1,0,0.1,0.1" 
+class="s3_1"
+>Student Academic Information</text>
+
+<text 
+x="82" 
+y="541" 
+dx="0,-0.1,-0.1,0.1,0,0,0,0,0,0,0.3,0,-0.1,0,0,-0.1,0.2,0,-0.1,0.1,0,0.1,-0.1,0.1,0,-0.1,0.2,0,0,0.1,0,0,0,-0.1,0,0.1,0,0,-0.1,0.2,0,0.1,0.2,0.4,-0.3,0.1,0,0,0,0,0,-0.1,0.1,0,0,-0.1,0,0.1,0,-0.1,0,0,0.1,-0.1,0,0.1,0,0,0,-0.1,0.2,0,-0.1,0,0.1,0,0,0" 
+class="s7_1"
+>Please complete each line according to how you intend to enroll at IIT Stuart:</text>
+
+<text 
+x="82" 
+y="579" 
+dx="0,0.3,-0.2,0,0,-0.1,0,0,0,0,0,0.2,0,-0.1,0,0.1,0,0,0,0.1,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0,0.2,0,-0.1,0,0,0,-0.1,0,0,0.2,0,-0.1,0" 
+class="s10_1"
+>My last semester of enrollment at IIT Stuart was: </text>
+
+<text 
+x="450" 
+y="579" 
+dx="0,-0.1,0,-0.1,0.1,0.2,0,-0.1,0.1,0,-0.1,0.2,0,-0.1" 
+class="s7_1"
+>Year ________ </text>
+
+<text 
+x="584" 
+y="579" 
+dx="0,-0.1,0,0,0.1,0,-0.1,0.2,0,0,-0.1,-0.1,0.2,-0.1,0,0.1,0.3,0,0.2,0,0,0,-0.1,0,-0.1,0.1,0,0,0.1,0" 
+class="s7_1"
+>Spring/Fall/Summer  __________</text>
+
+<text 
+x="82" 
+y="618" 
+dx="0,0,0,0,0,0.1,0,0,0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s10_1"
+>I intend to enroll:</text>
+
+<text 
+x="223" 
+y="618" 
+dx="0,0,0.1,0,0,0.2,0,0,-0.1,0,0.1,0.2,-0.1,0.3,0" 
+class="s7_1"
+>____ Full-Time </text>
+
+<text 
+x="355" 
+y="618" 
+dx="0,0,-0.1,0.1,0,0,0.1,0,0,0.1,0.1,0.2,-0.1,0.3,0" 
+class="s7_1"
+>____ Part-Time </text>
+
+<text 
+x="82" 
+y="657" 
+dx="0,0.3,-0.2,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0.3,-0.3,0,0,0,0.1,0.2,0.1,0,0,0.2,-0.2,0,0,0.2,0,-0.1,0,0.1,0,0,0.2,0,-0.1" 
+class="s10_1"
+>My cumulative GPA before my absence was:</text>
+
+<text 
+x="423" 
+y="657" 
+dx="0,0,0.1,0.1,0,-0.1" 
+class="s7_1"
+>______</text>
+
+<path fill-rule="evenodd" d="M82.5,678l715,0l0,-2.4l-715,0l0,2.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,676.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,676.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.9,676.1l714.4,0l0,-0.4l-714.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M797.3,676.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M797.3,676.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,677.7l0.4,0l0,-1.6l-0.4,0l0,1.6Z" class="g2_1" />
+<path fill-rule="evenodd" d="M797.3,677.7l0.4,0l0,-1.6l-0.4,0l0,1.6Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.5,678.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g2_1" />
+<path fill-rule="evenodd" d="M82.5,678.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M82.9,678.1l714.4,0l0,-0.4l-714.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M797.3,678.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<path fill-rule="evenodd" d="M797.3,678.1l0.4,0l0,-0.4l-0.4,0l0,0.4Z" class="g3_1" />
+<text 
+x="82" 
+y="718" 
+dx="0,-0.1,-0.1,-0.1,-0.1,0.1,0.1,0,0,0.1,-0.1,0,-0.1,-0.1,0.1,0.1,-0.1,-0.1,0,0.1,-0.1,-0.2,0,-0.1,-0.1,0,0.1,-0.1,0,-0.1,0,-0.1,-0.1,-0.1,0.1" 
+class="s3_1"
+>Reason for Request of Reinstatement</text>
+
+<text 
+x="82" 
+y="754" 
+dx="0,-0.1,0.1,0,-0.1,0.1,-0.1,0,0.1,0,0,-0.1,0,0.2,0,-0.1,0.1,0,-0.1,0,0.1,0,0,0.4,-0.3,0,-0.1,0,0.2,0,-0.1,0.1,0,-0.1,0.1,0" 
+class="s7_1"
+>Explain the reason for your absence:</text>
+
+<text 
+x="82" 
+y="771" 
+dx="0,0,-0.1,0,0.1,0,0,0.1,0,-0.1,0.1,0.1" 
+class="s7_1"
+>____ Medical</text>
+
+<text 
+x="82" 
+y="789" 
+dx="0,0,-0.1,0,0.1,0,-0.1,0.1,0.1,0,-0.1,0.3,-0.1,0.1,0,0,-0.1,0.2,0.2,-0.1,0.1,0,-0.1,0.2" 
+class="s7_1"
+>____ Academic difficulty</text>
+
+<text 
+x="82" 
+y="806" 
+dx="0,0,-0.1,0,0.1,0,-0.1,0,0,0.1,0.1,0,-0.1" 
+class="s7_1"
+>____ Personal</text>
+
+<text 
+x="82" 
+y="824" 
+dx="0,0,-0.1,0,0.1,0,0,0,0.1,0,0,-0.1,0.1,0,0.1,-0.2,-0.1,0.1,0.1,0,0,-0.1,0.2,0,-0.1,0.1,0.1,-0.1,0.1,0.1" 
+class="s7_1"
+>____ I do not wish to disclose</text>
+
+<text 
+x="82" 
+y="841" 
+dx="0,0,-0.1,0,0.1,0,0,0,0,-0.1,0,0" 
+class="s7_1"
+>____ Other: </text>
+
+<text 
+x="82" 
+y="880" 
+dx="0,0,0.1,0.2,-0.5,0.1,0,0.1,0,-0.1,0.1,0,0,-0.1,0.1,0,0,0,0,0.1,0,0.1,0,0,0,0,0,0.3,0,0,0,0,0,-0.1,0,0.1,-0.1,0.1,0.2,-0.2,0.3,-0.3,0.3,-0.3,0,0.1,0,0,0,0,0,0,0.1,0,-0.1,0.1,0.1,0,-0.1,0,-0.1,0,0.1,0,0,0.1,0,0,0,0,0.1,0,0,0,0,-0.1,0.1,0,0,-0.1,0.1,0,0.6,0.3,0,0,-0.1,0.1,-0.1,0.1,-0.2" 
+class="s7_1"
+>If you wish to explain in more detail why you are requesting to be reinstated, do so below:</text>
+
+<text 
+x="82" 
+y="998" 
+dx="0,-0.1,0,0,0.1,0,-0.1,0,0.1,0.1,-0.1,0,0.1,0,0,-0.1,0,0" 
+class="s7_1"
+>Student Signature </text>
+
+<text 
+x="272" 
+y="998" 
+dx="0,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,0.1,0,-0.1" 
+class="s7_1"
+>___________________________________ </text>
+
+<text 
+x="599" 
+y="998" 
+dx="0,0.2,0,0,-0.1,0.2,0,-0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0" 
+class="s7_1"
+>Date ____________________</text>
+
+<text 
+x="82" 
+y="1036" 
+dx="0,-0.1,0.1,0,-0.1,0,0.3,-0.1,0.1,0,-0.1,0.1,-0.1,-0.1,0.1,0,0,0.3,-0.1,0,-0.1,0.2,0,0,0,0.2,0,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0,0.1,0,-0.1,0.1,0,0.2,0.1,0,0.1,0,-0.1" 
+class="s7_1"
+>Academic Advisor Approval ___________________________________ </text>
+
+<text 
+x="600" 
+y="1036" 
+dx="0,0.2,0,0,0.1,0,-0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1" 
+class="s7_1"
+>Date_____________________</text>
+
+<text 
+x="82" 
+y="1075" 
+dx="0,-0.1,0.1,0.1,-0.1,0.1,0,0,-0.1,0,0,0.2,0,0.1,0,0,0.1,0,-0.1,0,0.1,-0.1,0.1,-0.1,0,0,-0.1,0.3,0.2,0,0,-0.1,0,-0.1,0.2,0,-0.1,0,0.2,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0.1,0,-0.1,0,0.1,0,-0.1,0.1,0,-0.1,0.1,0,0.1,0,-0.1,0.2" 
+class="s7_1"
+>Assistant Dean Approval [if required] ____________________________ </text>
+
+<text 
+x="602" 
+y="1075" 
+dx="0,0,0,0.1,0,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1" 
+class="s7_1"
+>Date ____________________</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Arial_2g;
+	src: url("fonts/Arial_2g.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

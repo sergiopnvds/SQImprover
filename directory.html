@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>587SQImprover</title>
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900'>
+  <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Montserrat:400,700'>
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="css/directory.css">
+</head>
+
+
+<body>
+
+    <div class="main-container">
+
+        <!-- HEADER -->
+        <header class="block">
+          <div class="profile-menu" style=' float:left'>
+
+                  <img style='width:50px; margin-top:15px; margin-left:14px' alt="" src="images/logo.png">
+
+          </div>
+            <ul class="header-menu horizontal-list">
+                <li>
+                    <a class="header-menu-tab" href="mypage.html"><span class="icon fontawesome-user scnd-font-color"></span>My page</a>
+                </li>
+                <li>
+                    <a class="header-menu-tab" href="#2"><span class="icon fontawesome-briefcase scnd-font-color"></span>Projects</a>
+                </li>
+                <li>
+                    <a class="header-menu-tab" href="chat.html"><span class="icon fontawesome-comments scnd-font-color"></span>Chat</a>
+                    <a class="header-menu-number" href="#4">5</a>
+                </li>
+                <li>
+                    <a class="header-menu-tab" href="myTools.html"><span class="icon fontawesome-wrench scnd-font-color"></span>Tools</a>
+                </li>
+                <li>
+                    <a class="header-menu-tab" href="#5"><span class="icon fontawesome-book scnd-font-color"></span>Training</a>
+                </li>
+                <li>
+                    <a class="header-menu-tab" href="#5"><span class="icon entypo-palette scnd-font-color"></span>Templates</a>
+                </li>
+            </ul>
+            <div class="profile-menu">
+                <p>Me <a href="#26"><span class="entypo-down-open scnd-font-color"></span></a></p>
+                <div class="profile-picture small-profile-picture">
+                    <img width="40px" alt="" src="images/default-profile.png">
+              </div>
+            </div>
+        </header>
+
+        <!-- LEFT-CONTAINER -->
+        <div class="left-container container">
+            <div class="menu-box block"> <!-- MENU BOX (LEFT-CONTAINER) -->
+                <h2 class="titular">MY Tools</h2>
+                <ul class="menu-box-menu">
+                    <li>
+                        <a class="menu-box-tab" href="docEditor.html"><span class="icon entypo-clock scnd-font-color"></span>Daily Report</a>
+                    </li>
+                    <li>
+                        <a class="menu-box-tab" href="directory.html"><span class="icon entypo-paper-plane scnd-font-color"></span>Directory</a>
+                    </li>
+                    <li>
+                        <a class="menu-box-tab" href="Planer.html"><span class="icon fontawesome-file scnd-font-color"></span>Planner</a>
+                    </li>
+                </ul>
+        </div>
+  </div>
+
+
+        <div class="right-container container">
+
+          <div class="join-newsletter block"> <!-- JOIN NEWSLETTER (RIGHT-CONTAINER) -->
+
+                  <div class="input-container">
+
+                      <div class="container" id="principal"  style="width: 710px; background: #394264; margin-bottom: 20px; border-radius: 3px;">
+                                      <h2 class="titular">DIRECTORY</h2>
+      <!-- añadir un contacto a la agenda -->
+                        <div class="col-sm-6" style="width: 680px;">
+                          <div class="panel panel-default">
+                            <div class="panel-heading">
+                              <h3>Add contact</h3>
+                            </div>
+                            <div class="panel-body">
+
+                              <div class="form-group">
+                                <input class="form-control" placeholder="Name" v-model="contacto.nombre">
+                              </div>
+
+                              <div class="form-group">
+                                <input class="form-control" placeholder="Last nama" v-model="contacto.apellidos">
+                              </div>
+
+                              <div class="form-group">
+                                <input type="date" class="form-control" placeholder="Date of Birthday" v-model="contacto.fnacimiento">
+                              </div>
+
+                              <div class="form-group">
+                                <input class="form-control" placeholder="Phone number" v-model="contacto.telefono">
+                              </div>
+
+                              <button class="btn btn-primary" v-on:click="addContacto">Save</button>
+
+                            </div>
+                          </div>
+
+                        </div>
+
+      <!-- Mostrar los contatos -->
+      <div class="col-sm-6" style="width: 680px;">
+        <div class="list-group">
+          <a href="#" class="list-group-item" v-for="(contacto, index) in agenda" style="height: 132px;">
+            <h4 style="margin-top: 3px;margin-bottom: 3px;" class="list-group-item-heading">
+              <i class="glyphicon glyphicon-user"></i> {{ contacto.nombre }}
+            </h4>
+             <h5 style="margin-top: 3px;margin-bottom: 3px;"  class="list-group-item-text" v-if="contacto.apellidos">{{ contacto.apellidos }}</h5>
+
+            <h5 style="margin-top: 3px;margin-bottom: 3px;" >
+              <i class="glyphicon glyphicon-calendar" v-if="contacto.fnacimiento"></i>
+              {{ contacto.fnacimiento }}
+            </h5>
+             <h5 style="margin-top: 3px;margin-bottom: 3px;" >
+              <i class="glyphicon glyphicon-earphone" v-if="contacto.telefono"></i>
+              {{ contacto.telefono }}
+            </h5>
+              <div class="col-sm-6" style="width: 53px;">
+                <button style="margin-top: 3px;margin-bottom: 3px;"  class="btn btn-xs btn-danger" v-on:click="borrarContacto(index)">Delete</button>
+              </div>
+              <div class="col-sm-6" style="width: 53px;">
+                <button style="margin-top: 3px;margin-bottom: 3px; background-color: #0D5689; border-color: #0D5689"  class="btn btn-xs btn-danger" v-on:click="openChat()">Chat</button>
+              </div>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </body>
+  </html>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.0.5/vue.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.0.3/vue-resource.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js'></script>
+
+      <script src="js/directory.js"></script>
+
+        </div> <!-- end right-container -->
+    </div> <!-- end main-container -->
+</body>
+</html>
